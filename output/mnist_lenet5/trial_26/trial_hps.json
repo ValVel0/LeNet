@@ -1,0 +1,7 @@
+{
+ "c1_filters": 8,
+ "c3_filters": 26,
+ "f5_units": 120,
+ "f6_units": 85,
+ "activation": "tanh"
+}

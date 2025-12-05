@@ -1,0 +1,7 @@
+{
+ "c1_filters": 8,
+ "c3_filters": 30,
+ "f5_units": 90,
+ "f6_units": 65,
+ "activation": "relu"
+}
